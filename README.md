@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhan896&label=Profile%20views&color=0e75b6&style=flat" alt="akhan896" /> </p>
 
-<p align="left"> <a href="https://twitter.com/armankhan" target="blank"><img src="https://img.shields.io/twitter/follow/armankhan?logo=twitter&style=for-the-badge" alt="armankhan" /></a> </p>
+
 
 - 🔭 I’m currently working on **Html,CSS and Javascript**
 
