@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arman khan</h1>
-<h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
 
 
