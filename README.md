@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Javascript and C++**
   
-- 💬 Ask me about **HTML, CSS, C++,C**
-
 - 📫 How to reach me **armankhan02423@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
