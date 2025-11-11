@@ -48,3 +48,15 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhan896&show_icons=true&locale=en" alt="akhan896" /></p> -->
 
+## 👾 Fun Stuff
+- When I'm not coding, you'll find me playing games. 
+
+<br>
+
+
+``` rust
+fn main() {
+    println!("code not coding");
+}
+```
+
